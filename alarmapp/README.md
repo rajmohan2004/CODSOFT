@@ -1,2 +1,1 @@
-# MyAlarm-App
-Source Code Aplikasi Alarm Sederhana
+Alarm App
