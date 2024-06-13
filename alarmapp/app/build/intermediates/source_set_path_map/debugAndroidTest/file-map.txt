@@ -1,0 +1,5 @@
+com.millenialzdev.myalarm.test.app-androidTest-0 F:\alarmapp\app\build\generated\res\resValues\androidTest\debug
+com.millenialzdev.myalarm.test.app-androidTest-1 F:\alarmapp\app\build\generated\res\rs\androidTest\debug
+com.millenialzdev.myalarm.test.app-mergeDebugAndroidTestResources-2 F:\alarmapp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.millenialzdev.myalarm.test.app-mergeDebugAndroidTestResources-3 F:\alarmapp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.millenialzdev.myalarm.test.app-merged_res-4 F:\alarmapp\app\build\intermediates\merged_res\debugAndroidTest
